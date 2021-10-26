@@ -22,7 +22,6 @@ C:\Users\wiasuro\source\TodoApi\TodoApi\obj\Debug\net5.0\staticwebassets\TodoApi
 C:\Users\wiasuro\source\TodoApi\TodoApi\obj\Debug\net5.0\staticwebassets\TodoApi.StaticWebAssets.xml
 C:\Users\wiasuro\source\TodoApi\TodoApi\obj\Debug\net5.0\scopedcss\bundle\TodoApi.styles.css
 C:\Users\wiasuro\source\TodoApi\TodoApi\obj\Debug\net5.0\TodoApi.RazorTargetAssemblyInfo.cache
-C:\Users\wiasuro\source\TodoApi\TodoApi\obj\Debug\net5.0\TodoApi.csproj.CopyComplete
 C:\Users\wiasuro\source\TodoApi\TodoApi\obj\Debug\net5.0\TodoApi.dll
 C:\Users\wiasuro\source\TodoApi\TodoApi\obj\Debug\net5.0\ref\TodoApi.dll
 C:\Users\wiasuro\source\TodoApi\TodoApi\obj\Debug\net5.0\TodoApi.pdb
