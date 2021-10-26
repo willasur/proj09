@@ -31,4 +31,3 @@ C:\Users\wiasuro\source\TodoApi\TodoApi\bin\Debug\net5.0\Microsoft.EntityFramewo
 C:\Users\wiasuro\source\TodoApi\TodoApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
 C:\Users\wiasuro\source\TodoApi\TodoApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\wiasuro\source\TodoApi\TodoApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\wiasuro\source\TodoApi\TodoApi\obj\Debug\net5.0\TodoApi.csproj.CopyComplete
