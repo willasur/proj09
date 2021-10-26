@@ -26,3 +26,9 @@ C:\Users\wiasuro\source\TodoApi\TodoApi\obj\Debug\net5.0\TodoApi.dll
 C:\Users\wiasuro\source\TodoApi\TodoApi\obj\Debug\net5.0\ref\TodoApi.dll
 C:\Users\wiasuro\source\TodoApi\TodoApi\obj\Debug\net5.0\TodoApi.pdb
 C:\Users\wiasuro\source\TodoApi\TodoApi\obj\Debug\net5.0\TodoApi.genruntimeconfig.cache
+C:\Users\wiasuro\source\TodoApi\TodoApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\wiasuro\source\TodoApi\TodoApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\wiasuro\source\TodoApi\TodoApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\wiasuro\source\TodoApi\TodoApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\wiasuro\source\TodoApi\TodoApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\wiasuro\source\TodoApi\TodoApi\obj\Debug\net5.0\TodoApi.csproj.CopyComplete
